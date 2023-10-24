@@ -1,6 +1,6 @@
 # Promptopia - Discover and Share AI Prompts
 
-![https://i.imgur.com/Melmbnx.png](website-pic)
+![website-pic](https://i.imgur.com/Melmbnx.png)
 
 Promptopia provides a platform to discover, create, and share creative prompts. Developed for learning purposes.
 
