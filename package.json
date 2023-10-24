@@ -1,0 +1,26 @@
+{
+  "name": "share_prompts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.0",
+    "next": "13.5.4",
+    "next-auth": "^4.23.2",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "prettier": "3.0.3",
+    "tailwindcss": "^3"
+  }
+}
